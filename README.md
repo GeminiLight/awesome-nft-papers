@@ -5,8 +5,9 @@ We collect papers related to data-driven analysis and application for non-fungib
 **Related Top Conferences and Journals**
 
 - KDD, WWW, SIGIR, ...
-- CHI, CCS, ...
+- CHI, CSCW, ...
 - CVPR, MM, TOMM, ...
+- CCS, ...
 - Nature Scientific Reports, ...
 
 **Domain-specific Conferences**
@@ -224,6 +225,12 @@ We collect papers related to data-driven analysis and application for non-fungib
 
     ICBC, 2023. [`conference`](https://ieeexplore.ieee.org/document/10174882)
 
+2. **The Contemporary Art of Image Search: Iterative User Intent Expansion via Vision-Language Model**
+
+    *Yilin Ye, Qian Zhu, Shishi Xiao, Kang Zhang, Wei Zeng*
+
+    CSCW, 2024. [`conference`](https://arxiv.org/abs/2312.01656)
+
 ### [Generation](#content)
 
 1. **NFTGAN: Non-Fungible Token Art Generation Using Generative Adversarial Networks**
@@ -307,6 +314,12 @@ We collect papers related to data-driven analysis and application for non-fungib
     *Escamilla, Jesus Ariel Leon and Yanovich, Yury*
 
     ICBTA, 2022. [`conference`](https://dl.acm.org/doi/10.1145/3581971.3581974)
+
+3. **Live Graph Lab: Towards Open, Dynamic and Real Transaction Graphs with NFT**
+
+    *Zhen Zhang, Bingqiao Luo, Shengliang Lu, Bingsheng He*
+
+    NeurIPS, 2023. [`conference`](https://arxiv.org/abs/2310.11709)
 
 ### [Other](#content)
 

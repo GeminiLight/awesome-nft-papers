@@ -1,0 +1,32 @@
+    INFO: 2024-01-04 12:20:37,226:               log.py:   20: Logging to /Users/geminilight/code/papers/awesome-nft-papers/src/mdpdf.log
+   DEBUG: 2024-01-04 12:20:37,226:               cli.py:  103: ./README.md
+    INFO: 2024-01-04 12:20:37,228:         converter.py:   14: ./README.md
+   DEBUG: 2024-01-04 12:20:37,240:      pdf_renderer.py:  470: printSegment: Code Auto-generator
+   DEBUG: 2024-01-04 12:20:37,245:      pdf_renderer.py:  470: printSegment: When adding new papers, please add them in 
+   DEBUG: 2024-01-04 12:20:37,246:      pdf_renderer.py:  470: printSegment: "
+   DEBUG: 2024-01-04 12:20:37,246:      pdf_renderer.py:  470: printSegment: data/papers.csv
+   DEBUG: 2024-01-04 12:20:37,246:      pdf_renderer.py:  470: printSegment: "
+   DEBUG: 2024-01-04 12:20:37,246:      pdf_renderer.py:  470: printSegment: , then run generator.py to update 
+   DEBUG: 2024-01-04 12:20:37,246:      pdf_renderer.py:  470: printSegment: "
+   DEBUG: 2024-01-04 12:20:37,246:      pdf_renderer.py:  470: printSegment: README.md
+   DEBUG: 2024-01-04 12:20:37,246:      pdf_renderer.py:  470: printSegment: "
+   DEBUG: 2024-01-04 12:20:37,246:      pdf_renderer.py:  470: printSegment: .
+   DEBUG: 2024-01-04 12:20:37,246:      pdf_renderer.py:  470: printSegment: p.s.
+   DEBUG: 2024-01-04 12:20:37,246:      pdf_renderer.py:  470: printSegment:  1 
+   DEBUG: 2024-01-04 12:20:37,247:      pdf_renderer.py:  470: printSegment: When adding a paper containing more than one problem, please use 
+   DEBUG: 2024-01-04 12:20:37,247:      pdf_renderer.py:  470: printSegment: "
+   DEBUG: 2024-01-04 12:20:37,247:      pdf_renderer.py:  470: printSegment: ;
+   DEBUG: 2024-01-04 12:20:37,247:      pdf_renderer.py:  470: printSegment: "
+   DEBUG: 2024-01-04 12:20:37,247:      pdf_renderer.py:  470: printSegment:  to separate them in the first
+   DEBUG: 2024-01-04 12:20:37,247:      pdf_renderer.py:  470: printSegment: column.
+   DEBUG: 2024-01-04 12:20:37,247:      pdf_renderer.py:  470: printSegment:  2 
+   DEBUG: 2024-01-04 12:20:37,247:      pdf_renderer.py:  470: printSegment: When adding a problem that has accepted abbreviations, please add it to the 
+   DEBUG: 2024-01-04 12:20:37,247:      pdf_renderer.py:  470: printSegment: "
+   DEBUG: 2024-01-04 12:20:37,247:      pdf_renderer.py:  470: printSegment: abbr
+   DEBUG: 2024-01-04 12:20:37,248:      pdf_renderer.py:  470: printSegment: "
+   DEBUG: 2024-01-04 12:20:37,248:      pdf_renderer.py:  470: printSegment:  map at the
+   DEBUG: 2024-01-04 12:20:37,248:      pdf_renderer.py:  470: printSegment: beginning of generator.py.
+   DEBUG: 2024-01-04 12:20:37,248:      pdf_renderer.py:  470: printSegment: Installation
+   DEBUG: 2024-01-04 12:20:37,249:      pdf_renderer.py:  470: printSegment: pip install -r requirements.txt
+   DEBUG: 2024-01-04 12:20:37,250:      pdf_renderer.py:   53: 0, [1, 'Code Auto-generator', 1, 68.0]
+   DEBUG: 2024-01-04 12:20:37,250:      pdf_renderer.py:   53: 1, [2, 'Installation', 1, 202.0]
