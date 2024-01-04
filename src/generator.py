@@ -199,7 +199,7 @@ def visualize(csvFile):
     df_papers = pd.read_csv(csvFile)
     width = 800
     height = 800
-    top_conference_list = ['KDD', 'WWW', 'SIGIR', 'CCS', 'CHI', 'MM']
+    top_conference_list = ['KDD', 'WWW', 'SIGIR', 'CCS', 'CHI', 'MM', 'NeurIPS', 'CSCW']
 
     # Figure 1: Annual Count Trend
     df_paper_groupby_year_type_for_count = df_papers.groupby(["year", "type"]).count().reset_index().rename({'title': 'count'}, axis=1)
