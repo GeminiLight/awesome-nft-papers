@@ -31,11 +31,11 @@ We collect papers related to data-driven analysis and application for non-fungib
 <tr><td colspan="2"><a href="#survey-papers">1. Overview</a></td></tr>
 <tr><td colspan="2"><a href="#tasks">2. Tasks</a></td></tr> <tr>
 	<td>&emsp;<a href=#data-insight>2.1 Data Insight</a></td>
-	<td>&emsp;<a href=#anomaly-detection>2.2 Anomaly Detection</a></td>
+	<td>&emsp;<a href=#valuation-&-price-prediction>2.2 Valuation & Price Prediction</a></td>
 </tr>
 <tr>
-	<td>&emsp;<a href=#anti-counterfeiting>2.3 Anti-counterfeiting</a></td>
-	<td>&emsp;<a href=#valuation-&-price-prediction>2.4 Valuation & Price Prediction</a></td>
+	<td>&emsp;<a href=#anomaly-detection>2.3 Anomaly Detection</a></td>
+	<td>&emsp;<a href=#anti-counterfeiting>2.4 Anti-counterfeiting</a></td>
 </tr>
 <tr>
 	<td>&emsp;<a href=#recommendation>2.5 Recommendation</a></td>
@@ -79,6 +79,18 @@ We collect papers related to data-driven analysis and application for non-fungib
     *Gan, Wensheng and Ye, Zhenqiang and Wan, Shicheng and Yu, Philip S.*
 
     WWW Companion, 2023. [`workshop`](https://dl.acm.org/doi/abs/10.1145/3543873.3587583)
+
+5. **Machine Learning for Blockchain Data Analysis: Progress and Opportunities**
+
+    *Poupak Azad, Cuneyt Gurcan Akcora, Arijit Khan*
+
+    arXiv, 2024. [`preprint`](https://arxiv.org/pdf/2404.18251)
+
+6. **Characterizing the Solana NFT Ecosystem**
+
+    *Dechao Kong, Xiaoqi Li, Wenkai Li*
+
+    WWW Companion, 2024. [`workshop`](https://arxiv.org/abs/2403.10879)
 
 ## [Tasks](#content)
 
@@ -126,58 +138,6 @@ We collect papers related to data-driven analysis and application for non-fungib
 
     ICBC, 2023. [`conference`](https://ieeexplore.ieee.org/document/9805542)
 
-### [Anomaly Detection](#content)
-
-1. **TTAGN: Temporal Transaction Aggregation Graph Network for Ethereum Phishing Scams Detection**
-
-    *Li, Sijia and Gou, Gaopeng and Liu, Chang and Hou, Chengshang and Li, Zhenzhen and Xiong, Gang*
-
-    WWW, 2022. [`conference`](https://dl.acm.org/doi/10.1145/3485447.3512226)
-
-2. **Understanding Security Issues in the NFT Ecosystem**
-
-    *Das, Dipanjan and Bose, Priyanka and Ruaro, Nicola and Kruegel, Christopher and Vigna, Giovanni*
-
-    CCS, 2022. [`conference`](https://dl.acm.org/doi/abs/10.1145/3548606.3559342)
-
-3. **Sleepminting, the brand new frontier of Non Fungible Tokens fraud**
-
-    *Guidi, Barbara and Michienzi, Andrea*
-
-    GoodIT, 2022. [`conference`](https://dl.acm.org/doi/abs/10.1145/3524458.3547239)
-
-4. **NFTDisk: Visual Detection of Wash Trading in NFT Markets**
-
-    *Wen, Xiaolin and Wang, Yong and Yue, Xuanwu and Zhu, Feida and Zhu, Min*
-
-    CHI, 2023. [`conference`](https://dl.acm.org/doi/abs/10.1145/3580305.3599876)
-
-5. **BERT4ETH: A Pre-trained Transformer for Ethereum Fraud Detection**
-
-    *Hu, Sihao and Zhang, Zhen and Luo, Bingqiao and Lu, Shengliang and He, Bingsheng and Liu, Ling*
-
-    WWW, 2023. [`conference`](https://dl.acm.org/doi/10.1145/3543507.3583345), [`code`](https://github.com/git-disl/BERT4ETH)
-
-### [Anti-counterfeiting](#content)
-
-1. **A Distributed Authenticity Verification Scheme Using Deep Learning for NFT Market**
-
-    *Kimura, Keigo and Imamura, Mitsuyoshi and Omote, Kazumasa*
-
-    ICBTA, 2022. [`conference`](https://dl.acm.org/doi/10.1145/3581971.3581977)
-
-2. **NFT-Based Data Marketplace with Digital Watermarking**
-
-    *Ranjbar Alvar, Saeed and Akbari, Mohammad and Yue, David (Ming Xuan) and Zhang, Yong*
-
-    KDD, 2023. [`conference`](https://dl.acm.org/doi/abs/10.1145/3580305.3599876)
-
-3. **Cross-Referencing Scheme to Ensure NFT and Platform Linkage Unaffected by Forking**
-
-    *Kimura, Keigo and Imamura, Mitsuyoshi and Omote, Kazumasa*
-
-    ICBC, 2023. [`conference`](https://ieeexplore.ieee.org/document/10174994)
-
 ### [Valuation & Price Prediction](#content)
 
 1. **TweetBoost: Influence of Social Media on NFT Valuation**
@@ -222,6 +182,64 @@ We collect papers related to data-driven analysis and application for non-fungib
 
     KDD, 2024. [`conference`](https://arxiv.org/abs/2405.10640)
 
+### [Anomaly Detection](#content)
+
+1. **TTAGN: Temporal Transaction Aggregation Graph Network for Ethereum Phishing Scams Detection**
+
+    *Li, Sijia and Gou, Gaopeng and Liu, Chang and Hou, Chengshang and Li, Zhenzhen and Xiong, Gang*
+
+    WWW, 2022. [`conference`](https://dl.acm.org/doi/10.1145/3485447.3512226)
+
+2. **Understanding Security Issues in the NFT Ecosystem**
+
+    *Das, Dipanjan and Bose, Priyanka and Ruaro, Nicola and Kruegel, Christopher and Vigna, Giovanni*
+
+    CCS, 2022. [`conference`](https://dl.acm.org/doi/abs/10.1145/3548606.3559342)
+
+3. **Sleepminting, the brand new frontier of Non Fungible Tokens fraud**
+
+    *Guidi, Barbara and Michienzi, Andrea*
+
+    GoodIT, 2022. [`conference`](https://dl.acm.org/doi/abs/10.1145/3524458.3547239)
+
+4. **NFTDisk: Visual Detection of Wash Trading in NFT Markets**
+
+    *Wen, Xiaolin and Wang, Yong and Yue, Xuanwu and Zhu, Feida and Zhu, Min*
+
+    CHI, 2023. [`conference`](https://dl.acm.org/doi/abs/10.1145/3580305.3599876)
+
+5. **BERT4ETH: A Pre-trained Transformer for Ethereum Fraud Detection**
+
+    *Hu, Sihao and Zhang, Zhen and Luo, Bingqiao and Lu, Shengliang and He, Bingsheng and Liu, Ling*
+
+    WWW, 2023. [`conference`](https://dl.acm.org/doi/10.1145/3543507.3583345), [`code`](https://github.com/git-disl/BERT4ETH)
+
+6. **Unveiling Wash Trading in Popular NFT Markets**
+
+    *Yuanzheng Niu, Xiaoqi Li, Hongli Peng, Wenkai Li*
+
+    WWW Companion, 2024. [`workshop`](https://arxiv.org/abs/2403.10361)
+
+### [Anti-counterfeiting](#content)
+
+1. **A Distributed Authenticity Verification Scheme Using Deep Learning for NFT Market**
+
+    *Kimura, Keigo and Imamura, Mitsuyoshi and Omote, Kazumasa*
+
+    ICBTA, 2022. [`conference`](https://dl.acm.org/doi/10.1145/3581971.3581977)
+
+2. **NFT-Based Data Marketplace with Digital Watermarking**
+
+    *Ranjbar Alvar, Saeed and Akbari, Mohammad and Yue, David (Ming Xuan) and Zhang, Yong*
+
+    KDD, 2023. [`conference`](https://dl.acm.org/doi/abs/10.1145/3580305.3599876)
+
+3. **Cross-Referencing Scheme to Ensure NFT and Platform Linkage Unaffected by Forking**
+
+    *Kimura, Keigo and Imamura, Mitsuyoshi and Omote, Kazumasa*
+
+    ICBC, 2023. [`conference`](https://ieeexplore.ieee.org/document/10174994)
+
 ### [Recommendation](#content)
 
 1. **Predicting NFT Classification with GNN: A Recommender System for Web3 Assets**
@@ -231,6 +249,12 @@ We collect papers related to data-driven analysis and application for non-fungib
     ICBC, 2023. [`conference`](https://ieeexplore.ieee.org/document/10174882)
 
 2. **The Contemporary Art of Image Search: Iterative User Intent Expansion via Vision-Language Model**
+
+    *Yilin Ye, Qian Zhu, Shishi Xiao, Kang Zhang, Wei Zeng*
+
+    CSCW, 2024. [`conference`](https://arxiv.org/abs/2312.01656)
+
+3. **The Contemporary Art of Image Search: Iterative User Intent Expansion via Vision-Language Model**
 
     *Yilin Ye, Qian Zhu, Shishi Xiao, Kang Zhang, Wei Zeng*
 
