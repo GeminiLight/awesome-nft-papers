@@ -31,7 +31,7 @@ We collect papers related to data-driven analysis and application for non-fungib
 <tr><td colspan="2"><a href="#survey-papers">1. Overview</a></td></tr>
 <tr><td colspan="2"><a href="#tasks">2. Tasks</a></td></tr> <tr>
 	<td>&emsp;<a href=#data-insight>2.1 Data Insight</a></td>
-	<td>&emsp;<a href=#valuation-&-price-prediction>2.2 Valuation & Price Prediction</a></td>
+	<td>&emsp;<a href=#valuation--price-prediction>2.2 Valuation & Price Prediction</a></td>
 </tr>
 <tr>
 	<td>&emsp;<a href=#anomaly-detection>2.3 Anomaly Detection</a></td>
