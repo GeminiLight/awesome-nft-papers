@@ -216,6 +216,12 @@ We collect papers related to data-driven analysis and application for non-fungib
 
     ICBTA, 2023. [`conference`](https://dl.acm.org/doi/10.1145/3581971.3581979)
 
+7. **COMET: NFT Price Prediction with Wallet Profiling**
+
+    *Tianfu Wang, Liwei Deng, Chao Wang, Jianxun Lian, Yue Yan, Nicholas Jing Yuan, Qi Zhang, Hui Xiong*
+
+    KDD, 2024. [`conference`](https://arxiv.org/abs/2405.10640)
+
 ### [Recommendation](#content)
 
 1. **Predicting NFT Classification with GNN: A Recommender System for Web3 Assets**
